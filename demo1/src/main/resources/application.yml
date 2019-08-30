@@ -1,0 +1,11 @@
+server:
+  port: 10621
+
+spring:
+  application:
+    name: demo1
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.192.33.107:8761/eureka/

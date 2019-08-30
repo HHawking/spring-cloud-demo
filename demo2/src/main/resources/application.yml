@@ -1,0 +1,6 @@
+server:
+  port: 10622
+
+spring:
+  application:
+    name: demo2
