@@ -4,3 +4,8 @@ server:
 spring:
   application:
     name: demo2
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.192.33.105:8761/eureka/
